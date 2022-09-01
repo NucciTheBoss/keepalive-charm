@@ -1,0 +1,10 @@
+# Copyright 2022 Canonical
+# See LICENSE file for licensing details.
+
+name: keepalive
+display-name: |
+  keepalive
+description: |
+  This is the keepalive operator.
+summary: |
+  This operator does nothing other than hold a machine on the hosts LXD hypervisor.
